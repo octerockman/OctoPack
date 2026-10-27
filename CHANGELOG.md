@@ -1,5 +1,20 @@
 # Changelog
 
+## 1.7.4
+
+- Fixed the player inventory background remaining at four rows after Haldor's Deeper Pockets upgrades when Equipment and Quick Slots is installed.
+- Sized the native board to ordinary player rows, excluding backpack and reserved equipment rows.
+- Prevented duplicate EQS extra-row expansion of the board, shadow, and gamepad selection frame.
+- Preserved backpack follow/Alt-drag behavior, item positions, and configuration settings.
+
+## 1.7.3
+
+- Added the BepInEx dependency and GitHub website link to Thunderstore metadata.
+- Added five original loadout and equipment photos using public image links.
+- Corrected installation wording for Thunderstore.
+- Added OpenAI Codex assistance disclosure to the README, project metadata, and compiled assembly metadata.
+- Retained existing gameplay, models, textures, sounds, recipes, and configuration defaults.
+
 ## 1.7.2
 
 - Added fitted, saved ground contacts for dropped-pack lantern arms and lantern housings.
