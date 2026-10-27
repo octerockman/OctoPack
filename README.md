@@ -108,6 +108,10 @@ Lantern and Camping are separate optional add-ons. Neither add-on DLL is bundled
 
 Created and maintained with generative AI assistance from **OpenAI Codex** (OpenAI), including code, documentation, and asset-production assistance. The mods have been built and tested during development.
 
+## Community and support
+
+Join [OctoDad's Mods on Discord](https://discord.gg/RueyvSfX7R) to ask questions, report bugs, and get news about future mods.
+
 ## Credits
 
 Created by OctoDad / Bascinet.
