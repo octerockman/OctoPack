@@ -10,6 +10,8 @@ Carry your supplies, display your travelling gear, and upgrade your backpack as 
 
 [Download the latest OctoPack release](https://github.com/octerockman/OctoPack/releases/latest).
 
+Version **1.7.4** fixes the player inventory background when Haldor's Deeper Pockets upgrades add rows while Equipment and Quick Slots is installed.
+
 ## Features
 
 - **Eight progression tiers:** Start with the Traveller backpack and unlock seven sequential boss upgrades.
@@ -92,7 +94,7 @@ Keep one copy of the DLL and retain your configuration when updating.
 
 Install the same OctoPack version on participating clients and the dedicated server. The server uses the identical DLL; there is no separate server DLL.
 
-For the current paired release, use OctoPack **1.7.2** with Lantern **1.2.2**. A dedicated server needs the core DLL; it does not need Lantern or Camping for their client visuals.
+For the current paired release, use OctoPack **1.7.4** with Lantern **1.2.3**. A dedicated server needs the core DLL; it does not need Lantern or Camping for their client visuals.
 
 ## Compatibility
 
@@ -101,6 +103,10 @@ Equipment and Quick Slots, Path of Valheiman, and OctoArsenal integrations are o
 Remove the legacy `Octodad.Backpack` plugin before using this core. Avoid duplicate copies of OctoPack.
 
 Lantern and Camping are separate optional add-ons. Neither add-on DLL is bundled in the OctoPack core package.
+
+## Development disclosure
+
+Created and maintained with generative AI assistance from **OpenAI Codex** (OpenAI), including code, documentation, and asset-production assistance. The mods have been built and tested during development.
 
 ## Credits
 
