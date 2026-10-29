@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.7.5
+
+- Reduced the FPS drop while inventory is open by skipping unchanged backpack slot, panel, and crafting-search visuals.
+- Stopped repeated backpack cell and tooltip writes when their state is unchanged.
+- Stopped periodic Equipment and Quick Slots row resizing when inventory height has not changed.
+- Kept Deeper Pockets row growth, backpack panel following, Alt-drag, cargo positions, and existing configuration behavior.
+
 ## 1.7.4
 
 - Fixed the player inventory background remaining at four rows after Haldor's Deeper Pockets upgrades when Equipment and Quick Slots is installed.

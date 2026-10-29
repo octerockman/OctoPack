@@ -10,7 +10,7 @@ Carry your supplies, display your travelling gear, and upgrade your backpack as 
 
 [Download the latest OctoPack release](https://github.com/octerockman/OctoPack/releases/latest).
 
-Version **1.7.4** fixes the player inventory background when Haldor's Deeper Pockets upgrades add rows while Equipment and Quick Slots is installed.
+Version **1.7.5** reduces the FPS drop while inventory is open by skipping unchanged slot, panel, and tooltip updates. The Deeper Pockets background fix from 1.7.4 remains included.
 
 ## Features
 
@@ -94,7 +94,7 @@ Keep one copy of the DLL and retain your configuration when updating.
 
 Install the same OctoPack version on participating clients and the dedicated server. The server uses the identical DLL; there is no separate server DLL.
 
-For the current paired release, use OctoPack **1.7.4** with Lantern **1.2.3**. A dedicated server needs the core DLL; it does not need Lantern or Camping for their client visuals.
+For the current paired release, use OctoPack **1.7.5** with Lantern **1.2.3**. A dedicated server needs the core DLL; it does not need Lantern or Camping for their client visuals.
 
 ## Compatibility
 
@@ -106,7 +106,7 @@ Lantern and Camping are separate optional add-ons. Neither add-on DLL is bundled
 
 ## Development disclosure
 
-Created and maintained with generative AI assistance from **OpenAI Codex** (OpenAI), including code, documentation, and asset-production assistance. The mods have been built and tested during development.
+Developed with AI assistance from OpenAI Codex.
 
 ## Community and support
 
