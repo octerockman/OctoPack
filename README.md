@@ -112,6 +112,12 @@ Developed with AI assistance from OpenAI Codex.
 
 Join [OctoDad's Mods on Discord](https://discord.gg/RueyvSfX7R) to ask questions, report bugs, and get news about future mods.
 
+## Support Studio Bascinet
+
+Enjoying the mod? Optional donations help support Studio Bascinet's mod development. Thank you for your support.
+
+[![Donate with PayPal button](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=BUC6767NR59C8)
+
 ## Credits
 
 Created by OctoDad / Bascinet.
